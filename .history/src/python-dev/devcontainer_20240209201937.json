@@ -1,6 +1,5 @@
 {
-    "id": "";,
-    
+    "id": "hello",
     "version": "1.0.0",
     "name": "Hello, World",
     "description": "A hello world Template",

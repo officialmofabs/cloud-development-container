@@ -1,0 +1,9 @@
+{
+  "features": {
+    "ghcr.io/devcontainers/features/docker-in-docker:2": {
+      "version": "2.8.1",
+      "resolved": "ghcr.io/devcontainers/features/docker-in-docker@sha256:cc4ffe9ab3b364c16a7f60456d7518d72fb507a193f51b9951fa262b6c37b482",
+      "integrity": "sha256:cc4ffe9ab3b364c16a7f60456d7518d72fb507a193f51b9951fa262b6c37b482"
+    }
+  }
+}
